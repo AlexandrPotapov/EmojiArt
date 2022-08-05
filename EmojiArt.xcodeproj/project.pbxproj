@@ -24,6 +24,7 @@
 		1F7F4D59289D43D70035F5B6 /* Camera.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F7F4D55289D43D70035F5B6 /* Camera.swift */; };
 		1F7F4D5A289D43D70035F5B6 /* PaletteManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F7F4D56289D43D70035F5B6 /* PaletteManager.swift */; };
 		1F7F4D5B289D43D70035F5B6 /* iOS.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F7F4D57289D43D70035F5B6 /* iOS.swift */; };
+		1F7F4D7F289D5D870035F5B6 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 1F7F4D7E289D5D870035F5B6 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -46,6 +47,7 @@
 		1F7F4D55289D43D70035F5B6 /* Camera.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Camera.swift; sourceTree = "<group>"; };
 		1F7F4D56289D43D70035F5B6 /* PaletteManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PaletteManager.swift; sourceTree = "<group>"; };
 		1F7F4D57289D43D70035F5B6 /* iOS.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = iOS.swift; sourceTree = "<group>"; };
+		1F7F4D7E289D5D870035F5B6 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 			isa = PBXGroup;
 			children = (
 				1F7F4D29289D43AC0035F5B6 /* EmojiArt */,
+				1F7F4D7E289D5D870035F5B6 /* README.md */,
 				1F7F4D28289D43AC0035F5B6 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -166,6 +169,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1F7F4D7F289D5D870035F5B6 /* README.md in Resources */,
 				1F7F4D34289D43AF0035F5B6 /* Preview Assets.xcassets in Resources */,
 				1F7F4D31289D43AF0035F5B6 /* Assets.xcassets in Resources */,
 			);
